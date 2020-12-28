@@ -17,3 +17,5 @@ https://github.com/shankar7545/BottomNavigation/raw/master/app/build/outputs/apk
 	  <th width="33%"><img src="https://github.com/shankar7545/BottomNavigation/raw/master/Screenshots/profile.png"></th>
 	</tr>
 </table>
+
+* In above pictures, There are three different Fragments associated with BottomNavigation.
