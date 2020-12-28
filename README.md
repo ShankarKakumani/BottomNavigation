@@ -10,6 +10,7 @@ You can download demo applcation from here
 https://github.com/shankar7545/BottomNavigation/raw/master/app/build/outputs/apk/debug/app-debug.apk
 
 ## Screenshots
+* In above pictures, There are three different Fragments associated with BottomNavigation.
 <table width="100%">
 	<tr>
 	  <th width="33%"><img src="https://github.com/shankar7545/BottomNavigation/raw/master/Screenshots/games.png"></th>
@@ -18,4 +19,3 @@ https://github.com/shankar7545/BottomNavigation/raw/master/app/build/outputs/apk
 	</tr>
 </table>
 
-* In above pictures, There are three different Fragments associated with BottomNavigation.
